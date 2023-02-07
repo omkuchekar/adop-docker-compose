@@ -1,4 +1,4 @@
-FROM ruby:2.1.9-alpine
+FROM ruby:2.1.9-alpine@sha256:5424642552f987ccf7eda903d238abbc037bef15c287e253babe4763f129206c
 
 MAINTAINER Nick Griffin <nicholas.griffin@accenture.com>
 
